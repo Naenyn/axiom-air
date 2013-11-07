@@ -1,7 +1,7 @@
 Description 
 -----------
 
-This repo contains python midi remote scripts for the M-Audio Axiom AIR Mini32 midi controller for use with Ableton Live 9. The scripts included with Live out-of-the-box for tbis controller are buggy and I felt they needed enhancing. The scripts in this repo are based on decompiled python bytecode that is included with Ableton Live.
+This repo contains python midi remote scripts for the M-Audio Axiom AIR Mini32 midi controller for use with Ableton Live 9. The scripts included with Live out-of-the-box for this controller are buggy and needed enhancing. The scripts in this repo are based on decompiled python bytecode that is included with Ableton Live.
 
 Features
 --------
