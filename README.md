@@ -6,15 +6,15 @@ This repo contains python midi remote scripts for the M-Audio Axiom AIR Mini32 m
 Features
 --------
 
- - Volume/Pan Mode
- - - Navigation buttons up/down switch scenes in session view
- - - Navigation buttons left/right switch tracks in session (and arrange) view
- - - Select button (in the center of the navigation buttons) starts session recording
- - - Changing tracks auto-arms the newly selected track if it is armable
+Volume/Pan Mode
+- Navigation buttons up/down switch scenes in session view
+- Navigation buttons left/right switch tracks in session (and arrange) view
+- Select button (in the center of the navigation buttons) starts session recording
+- Changing tracks auto-arms the newly selected track if it is armable
 
- - Instrument/FX Mode
- - - Navigation buttons up/down switch instrument banks
- - - Navigation buttons left/right switch devices in the device chain
+Instrument/FX Mode
+- Navigation buttons up/down switch instrument banks
+- Navigation buttons left/right switch devices in the device chain
 
 The rest of the functionality was left as-is.
 
