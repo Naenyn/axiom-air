@@ -33,7 +33,7 @@ C:\ProgramData\Ableton\Live 9\Resources\MIDI Remote Scripts\Axiom_AIR_Mini32 on 
 
 2) Move (not copy) the following files to a safe location:
 
-AxiomAirMini32.pyc	 MixerOrDeviceModeSelector.pyc SessionNavigationComponent.pyc
+AxiomAirMini32.pyc	 MixerOrDeviceModeSelector.pyc
 
 3) Copy the three .py files from this repo in to the same directory.
 
