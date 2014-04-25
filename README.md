@@ -35,6 +35,6 @@ C:\ProgramData\Ableton\Live 9\Resources\MIDI Remote Scripts\Axiom_AIR_Mini32 on 
 
 AxiomAirMini32.pyc	 MixerOrDeviceModeSelector.pyc
 
-3) Copy the three .py files from this repo in to the same directory.
+3) Copy the four .py files from this repo in to the same directory.
 
 4) Start up Live!
