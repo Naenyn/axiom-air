@@ -1,10 +1,10 @@
-#Embedded file name: /Users/versonator/Hudson/live/Projects/AppLive/Resources/MIDI Remote Scripts/Axiom_AIR_Mini32/MixerOrDeviceModeSelector.py
+# Embedded file name: /Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Axiom_AIR_Mini32/MixerOrDeviceModeSelector.py
 from _Framework.ModeSelectorComponent import ModeSelectorComponent
 from SessionNavigationComponent import SessionNavigationComponent
 ### Added by Naenyn 2013-11-05
 from Push.SessionRecordingComponent import SessionRecordingComponent
 from Push.ViewControlComponent import ViewControlComponent
-from Push.ClipCreator import ClipCreator
+from ClipCreator import ClipCreator
 ###
 
 class MixerOrDeviceModeSelector(ModeSelectorComponent):
@@ -46,6 +46,7 @@ class MixerOrDeviceModeSelector(ModeSelectorComponent):
         self._mixer_modes = None
         self._device_nav = None
         ModeSelectorComponent.disconnect(self)
+	return
 
     def number_of_modes(self):
         return 3
@@ -93,3 +94,4 @@ class MixerOrDeviceModeSelector(ModeSelectorComponent):
                 self._session.set_track_bank_buttons(None, None)
                 self._device.set_on_off_button(None)
                 self._mixer.selected_strip().set_arm_button(None)
+	return

@@ -1,4 +1,4 @@
-# Embedded file name: /Users/versonator/Jenkins/live/Projects/AppLive/Resources/MIDI Remote Scripts/Launchkey/SessionNavigationComponent.py
+# Embedded file name: /Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Axiom_AIR_Mini32/SessionNavigationComponent.py
 from _Framework.ControlSurface import ControlSurface
 from _Framework.CompoundComponent import CompoundComponent
 from _Framework.ScrollComponent import ScrollComponent
